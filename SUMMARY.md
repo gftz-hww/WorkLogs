@@ -1,5 +1,4 @@
 # Summary
-* [Introduction](README.md)
 * [2021年日志记录](./2021/README.md)
     * [七月日志](./2021/July/README.md)
         * [第四周]()
